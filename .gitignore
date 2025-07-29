@@ -4,3 +4,5 @@ _cache
 _npm
 demo
 TODO
+config.bat
+node_modules
